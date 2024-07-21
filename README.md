@@ -1,16 +1,26 @@
-## Hi there 👋
+# About Me
+---
+👨‍🎓 I am a student of computer science at Fergusson College, Pune, India. I am a sophomore pursuing a Bsc C.S. (Hons.)
 
-<!--
-**arin-b/arin-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖋 My Skills:
+  1. **Python**
+     OOP, NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, Tkinter, etc.
+  2. **Mathematics**
+     Applied Linear Algebra, Graph Theory, Multivariable Calculus, Gradient Descent
+  3. **Others**
+     - C Programming
+     - PostgreSQL (with plsql)
+     - HTML and CSS
+     - Unified Modelling Language (UML)
+     - Data Structures (structure, union, linked lists, arrays, queues, stacks, etc.)
+       
+## 📖 Academic Interests:
+I am deeply interested in pursuing research. My current area of interest includes AI and ML, especially ML algorithms. I am also interested in DAA (design and analysis of algorithms), and the computational sciences. Some of my skills have been taught to me at college, the rest are self-learnt. Going forward, I wish to become a computer scientist.
 
-Here are some ideas to get you started:
+## Other Skills:
+  1. Languages:
+     - Full Professional Proficiency in English, Hindi
+     - Professional Working Proficiency in Marathi, Gujarati
+     - Conversant in Bengali
+     - Limited working proficiency in French, Japanese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
